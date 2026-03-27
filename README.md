@@ -65,10 +65,3 @@ grc cat server.log
 ```bash
 export TERM="xterm-256color"
 ```
-
----
-
-### 💡 제안 하나 드려도 될까요?
-README에 넣을 **'적용 전(Before) vs 적용 후(After)'** 비교 스크린샷 이미지를 제가 만들어 드릴까요? 아니면 현재 터미널 화면을 캡처해서 직접 올리시는 게 가장 확실할까요? 
-
-저장소 이름은 **`grc-onedark-pro-darker`** 같은 느낌으로 지으시면 아주 멋질 것 같습니다! 🚀
